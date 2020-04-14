@@ -10,6 +10,7 @@ class App extends React.Component {
     .then(res => res.json())
     .then(console.log);
   }
+  //https://safe-island-15843.herokuapp.com
   //http://localhost:5000/
 
   render() {
